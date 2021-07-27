@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+
+<body>
+<link rel="stylesheet" href="page1.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12 col-sm-15 col-xs-12">
+            <nav id="navbar">
+
+
+<h2 style="background-color:BLUE;color:WHITE"><i> Your Bank</i>
+</h2>
+
+<p align="center"><b><i>"Banking Technology has made it simple  and efficient invest in good causes"</i></b>
+
+</p>
+
+</nav>
+</div>
+<div class="img-container">
+<img src="logo.png">
+<h3 style="background-color:BLUE;color:white"><i>
+ 
+<a href="Viewprofile.html">View My Profile</a>
+<a href="accountdetails.html">Accounts </a>
+<a href="signout.html" >Signout </a></i>
+</h3>
+
+<marquee direction="right" bgcolor="red">Never reveal your password or card details to anyone   </marquee>
+ 
+</div>
+
+
+
+
+
+<br>
+<br>
+
+<div class="container-fluid">
+    <div class="column">
+        <div class="col-md-5 col-sm-7 col-xs-12">
+            <nav id="navbar">
+
+
+<!--<label>
+Choose account
+</label>
+<select>
+<option value="Saving Account">Saving Account</option>
+<option value="Current Account">Current Account</option>
+<option value="Recurring Deposit Account">Recurring Deposit Account</option>
+<option value="Fixed Deposit Account">Fixed Deposit Account</option>
+<option value="Demat Account">Demat Account</option>
+</select>
+</nav>
+</div>
+<br>
+<br>
+
+<br>
+<div class="container-fluid" >
+    <div class="row">
+        <div class="col-md-3 col-sm-7 col-xs-12">
+            <nav id="navbar">
+
+
+<table style="width:50%">
+<tr>
+<th>Bank ID</th>
+<th>Available  Balance</th>
+<th>Account type</th>
+</tr>
+<tr>
+<td>100001</td>
+<td>400000</td>
+<td>Savings</td>
+</tr>
+</table>
+<br>
+<br>-->
+
+<!--  <div class="con" align="right" >
+    <div class="colu">
+        <div class="col-md-3 col-sm-15 col-xs-12">
+            <nav id="navbar">
+            
+           <a href="Sample4.html">Account details</a><br>
+            <a href="Sample4.html">Transaction history</a><br>
+            <a href="Sample4.html">Transfer Money</a><br>
+            
+            <a href="Sample4.html">Deposit cash</a>
+            </tr>
+            
+            </table>
+            </nav>
+</div>-->
+
+
+<!-- <input type="button" value="select"/>
+ -->
+
+
+
+
+</body>
+</html>
